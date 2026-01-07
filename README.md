@@ -8,3 +8,10 @@ This repository is meant to guide the participants of the ["From Zero to Immutab
 
 - [Abstract](abstract.md)
 - [Description](description.md)
+- Workshop
+  - [Stage 1: Deploying a single node cluster](stage-1.md)
+  - [Stage 2: Build your own immutable OS](stage-2.md)
+  - [Stage 3: Integrating OS builds into your CI/CD pipelines](stage-3.md)
+  - [Stage 4: Upgrading your cluster manually](stage-4.md)
+  - [Stage 5: Deploying a multi-node cluster](stage-5.md)
+  - [Stage 6: Upgrading your cluster through Kubernetes](stage-6.md)
